@@ -10,5 +10,6 @@ https://cip170.github.io/Third-Party-APIs-Work-Day-Scheduler/
 Github Repository URL:
 https://github.com/cip170/Third-Party-APIs-Work-Day-Scheduler.git
 
-![Screenshot (259)](https://github.com/cip170/Third-Party-APIs-Work-Day-Scheduler/assets/134829009/407f9cfb-1e5a-46cb-a6bd-f38b55cd87d9)
-![Screenshot (258)](https://github.com/cip170/Third-Party-APIs-Work-Day-Scheduler/assets/134829009/3f4e5ec6-0171-43b2-ab39-df84ee7358b0)
+
+![Screenshot (259)](https://github.com/cip170/Third-Party-APIs-Work-Day-Scheduler/assets/134829009/7e5d1abe-b6c4-486e-9f7a-0f3165ea91d2)
+![Screenshot (258)](https://github.com/cip170/Third-Party-APIs-Work-Day-Scheduler/assets/134829009/de756ad9-8604-42e0-bcd8-a57cbf6034b1)
